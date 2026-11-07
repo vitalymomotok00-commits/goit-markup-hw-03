@@ -36,6 +36,7 @@
 
 .address {
     font-style: normal;
+    margin-left: auto;
 }
 
 .address-list {
@@ -70,6 +71,7 @@
 .header-nav {
   display: flex;
   align-items: center;
+  margin-left: 76px;
 }
 
 .nav-list {
